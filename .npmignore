@@ -1,0 +1,26 @@
+# All compiled code will be in the `lib` folders
+.nyc_output
+.sass-cache
+_sass
+_site
+amd
+assets
+bower_components
+build
+coverage
+demo
+js
+src
+templates
+test
+vendor
+
+# Files
+.babelrc
+.editorconfig
+.eslintrc
+.travis.yml
+bower.json
+gulpfile.js
+testem.json
+run-tests.sh
