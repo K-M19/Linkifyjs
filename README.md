@@ -1,6 +1,8 @@
 # Linkify
 
 [![npm version](https://badge.fury.io/js/linkifyjs.svg)](https://www.npmjs.com/package/linkifyjs)
+
+
 Linkify is a small yet comprehensive JavaScript plugin for finding URLs in plain-text and converting them to HTML links. It works with all valid URLs and email addresses.
 
 **A build repository is maintained [here](https://github.com/nfrasser/linkify-shim).**
